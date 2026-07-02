@@ -12,3 +12,5 @@ Provides data augmentation functions such as image flipping, rotation, zooming, 
 
 model.pkl:
 Stores the trained Extra Trees model and the fitted StandardScaler.
+
+Data link: https://drive.google.com/drive/folders/1LxI6uBAnWG_QB-bHmPmt1soZ1UDNjrK_?usp=drive_link
